@@ -16,6 +16,6 @@
     {"id": 7, "listId": 4, "title": "Knit Sweater", "color": "Blue", "price": 350.00, "size": "Medium", "brand": "ERL", "yearPurchased": 2024},
     {"id": 8, "listId": 4, "title": "Shell Jacket", "color": "Black", "price": 229.99, "size": "Small", "brand": "Arcteryx", "yearPurchased": 2022},
     {"id": 9, "listId": 5, "title": "Runners", "color": "Multi-Color", "price": 650.00, "size": "EU 42", "brand": "Balenciaga", "yearPurchased": 2023},
-    {"id": 10, "listId": 5, "title": "Leather Loafers", "color": "Black", "price": 249.99, "size": "8.5", "brand": "Toga Virilis", "yearPurchased": 2022},
+    {"id": 10, "listId": 5, "title": "Leather Loafers", "color": "Black", "price": 249.99, "size": "8.5", "brand": "Toga Virilis", "yearPurchased": 2022}
   ]
 }
