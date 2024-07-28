@@ -4,7 +4,7 @@
     {"id":2,"title":"Shirts"},
     {"id":3,"title":"Pants"},
     {"id":4,"title":"Jackets/Outerwear"},
-    {"id":5,"title":"Shoes"},
+    {"id":5,"title":"Shoes"}
   ],
   "items": [
     {"id": 1, "listId": 1, "title": "Sunglasses", "color": "Black", "price": 149.99, "size": "52-19-147", "brand": "JINS", "yearPurchased": 2022},
